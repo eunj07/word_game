@@ -1,13 +1,6 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# pygame 모듈 테스트"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 34,
    "metadata": {},
